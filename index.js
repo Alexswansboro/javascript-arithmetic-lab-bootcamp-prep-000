@@ -20,10 +20,9 @@ function makeInt(n) {
  parseInt (n, 10)
 }
  '0*2328'=== 0
+ isNaN === 'true'
 }
-('sldkjflksjf') {
-  return ('isNaN')
-}
+
 
  
 
