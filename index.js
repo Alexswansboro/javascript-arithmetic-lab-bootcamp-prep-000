@@ -21,7 +21,7 @@ function makeInt(n) {
 }
  '0*2328'=== 0
  if (isNan) {
-   return (true)
+   return ('true')
  }
 function preserveDecimal(n) {
   parseFloat (n)
