@@ -16,10 +16,10 @@ function inc (a) {
 function dec (a) {
   return (a - 1)
 }
-function makeInt(string) {
- return (string)
+function makeInt(n) {
+ return (parseInt)
 }
-function parseInt (0*2328, 10) {
+parseInt (0*2328) {
   return (0)
 }
 parseInt ('sldkjflksjf') {
