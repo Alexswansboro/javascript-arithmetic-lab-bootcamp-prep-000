@@ -17,12 +17,12 @@ function dec (a) {
   return (a - 1)
 }
 function makeInt(n) {
- parseInt (n, 10)
+ return parseInt (n, 10)
 }
- '0*2328'=== 0
- if (parseInt === isNan) {
-   return ('true')
- }
+// '0*2328'=== 0
+// if (parseInt === isNan) {
+//   return ('true')
+// }
 function preserveDecimal(n) {
   parseFloat (n)
 }
