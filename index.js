@@ -19,8 +19,7 @@ function dec (a) {
 function makeInt(n) {
  parseInt (n, 10)
 }
- parseInt ('0*2328',n) {
-  return (0)
+ '0*2328'=== 0
 }
 ('sldkjflksjf') {
   return ('isNaN')
