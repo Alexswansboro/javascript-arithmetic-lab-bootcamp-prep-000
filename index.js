@@ -24,10 +24,10 @@ function makeInt(n) {
 //   return ('true')
 // }
 function preserveDecimal(n) {
-  parseFloat (n)
+  return parseFloat (n)
 }
-  'n' === n
-  isNan === true
+  // 'n' === n
+  // isNan === true
 
 
  
