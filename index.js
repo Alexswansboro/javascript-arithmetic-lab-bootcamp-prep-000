@@ -23,9 +23,10 @@ function makeInt(n) {
  isNaN === 'true'
 function preserveDecimal(n) {
   parseFloat (n)
+}
   'n' === n
   isNan === true
-}
+
 
  
 
