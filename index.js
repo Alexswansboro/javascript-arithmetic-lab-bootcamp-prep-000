@@ -19,10 +19,10 @@ function dec (a) {
 function makeInt(n) {
  return (n)
 }
-parseInt (n) {
+function parseInt (0*2328,n) {
   return (0)
 }
-parseInt ('sldkjflksjf') {
+('sldkjflksjf') {
   return ('isNaN')
 }
 
