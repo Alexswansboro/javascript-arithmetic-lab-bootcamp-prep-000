@@ -24,6 +24,7 @@ function makeInt(n) {
 function preserveDecimal(n) {
   parseFloat (n)
 }
+'2.222' === 2.222
 isNan === 'true'
 
 
