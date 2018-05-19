@@ -17,9 +17,9 @@ function dec (a) {
   return (a - 1)
 }
 function makeInt(n) {
- return (parseInt)
+ return (n)
 }
-parseInt (0*2328) {
+parseInt (n) {
   return (0)
 }
 parseInt ('sldkjflksjf') {
